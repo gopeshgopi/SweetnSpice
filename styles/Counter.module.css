@@ -1,0 +1,13 @@
+.Count{
+    width: 100vw;
+    height: 50%;
+   
+    background-color:violet;
+    font-size: large;
+    
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    margin-left: 50%;
+
+}

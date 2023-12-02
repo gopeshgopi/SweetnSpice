@@ -1,0 +1,43 @@
+/* Login.module.css */
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 12px;
+  background-color: #f5f5f5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 28px;
+  color: #333;
+}
+
+.inputField {
+  width: calc(100% - 24px);
+  padding: 16px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+
+.loginButton {
+  width: calc(100% - 24px);
+  padding: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.loginButton:hover {
+  background-color: #0056b3;
+}
